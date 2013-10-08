@@ -1,4 +1,7 @@
 Demo::Application.routes.draw do
+  get "exercise1/add"
+  get "exercise1/con"
+  get "exercise1/newTime"
   get "say/hello"
   get "say/goodbye"
   # The priority is based upon order of creation: first created -> highest priority.
