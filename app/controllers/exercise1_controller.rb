@@ -4,7 +4,7 @@ class Exercise1Controller < ApplicationController
   end
 
   def con
-    @newStirng = "cow" + "boy"
+    @newString = "cow" + "boy"
   end
 
   def newTime

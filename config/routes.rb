@@ -1,4 +1,5 @@
 Demo::Application.routes.draw do
+  get "exercise2/file"
   get "exercise1/add"
   get "exercise1/con"
   get "exercise1/newTime"
